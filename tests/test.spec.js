@@ -20,7 +20,7 @@ describe('model ', function(){
             expect(model.reset).to.be.a('function');
         })
         it('must reset clients to {}', function(){
-            model.clients = {brian: 'https://github.com/briancalamar', comment: 'aca me podes heatear tranquilo ;)'}
+            model.clients = {brian: 'https://github.com/briancalamar', comment: 'aca me podes heatear'}
             model.reset();
             expect(model.clients).to.be.deep.equal({});
         })
