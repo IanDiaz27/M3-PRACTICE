@@ -13,7 +13,7 @@ Hagan `git commit` a medida que van pasando los test.
 
 ### Notas al pie 📋
 
-* Sacate todas las dudas y participá si podés. 📢
+* Sacate todas las dudas. 📢
 * Cortá con un ☕ o un poco de aire si necesitás descansar 😊. 
 
 
